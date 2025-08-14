@@ -1,7 +1,7 @@
 # 📝 BoardProject
 
 Um sistema simples de gerenciamento de **boards**, **colunas** e **cards**, com suporte a bloqueio, desbloqueio, movimentação e cancelamento de cards.  
-O projeto foi desenvolvido em **Java**, utilizando **JDBC**, **MySQL** e **Lombok**.
+O projeto foi desenvolvido em **Java**, utilizando **SpringBoot**, **MySQL**.
 
 ---
 
